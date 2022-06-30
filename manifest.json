@@ -15,7 +15,7 @@
       }
     }
   },
-  "description": "",
+  "description": "Change the connectivity (aka. network state) for tabs",
   "icons": {
     "256": "icon.png"
   },
@@ -28,5 +28,5 @@
     "webRequest",
     "webRequestBlocking"
   ],
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
