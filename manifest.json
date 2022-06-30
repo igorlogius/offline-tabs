@@ -17,6 +17,7 @@
   },
   "description": "",
   "icons": {
+    "256": "icon.png"
   },
   "manifest_version": 2,
   "name": "Offline Tabs",
@@ -27,5 +28,5 @@
     "webRequest",
     "webRequestBlocking"
   ],
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
